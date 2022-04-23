@@ -2,5 +2,6 @@ h1{
     background-color: #eee;
     padding: 20px;
     text-transform: capitalize;
-    margin: 0px 50% 5px 0px;
+    margin: 5px calc(50% / 2);
+    text-align: center;
 }

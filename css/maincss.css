@@ -4,4 +4,5 @@ h1{
     text-transform: capitalize;
     margin: 5px calc(50% / 2);
     text-align: center;
+    border: 3px solid black;
 }

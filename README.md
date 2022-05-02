@@ -14,7 +14,7 @@ giriş sayfasından;
 Bu sayfada İsmail kattanın eğitim hayatından bahsedecek ,ketıldığı etkinlikler ,bildiği diller(canlı ve programlama dilleri) , çalıştığı yerler ve alanlar
 
 giriş sayfasından;
-### Memleketim sayfası 
+### Memleketİ sayfası 
 
 Bu sayfada İsmialin ülkesi olan Suriyeyi anlatılacak ardından Halebi ve Suriyede Halebin iktisadi ,siyasi, kültürel ve tarihi öneminden bahsedilecek   
 

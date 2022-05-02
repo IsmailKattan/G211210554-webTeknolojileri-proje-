@@ -8,9 +8,9 @@
 .SosyalMidya div{
     display: inline-block;
     position: relative;
-    left: 425px;
-    border-right: 1px solid black;
-    padding: 0px 5px 0px 0px;
+    right: 525px;
+    border-left: 1px solid black;
+    padding: 0px 0px 0px 5px;
 }
 .SosyalMidya .sondiv{
     border: none;
@@ -21,10 +21,10 @@
 }
 .SelectLan div{
     display: inline-block;
-    left: 500px;
+    right: 575px;
     position: relative;
-    padding: 0px 5px 0px 0px;
-    border-right: 1px solid black;
+    padding: 0px 0px 0px 5px;
+    border-left: 1px solid black;
 }
 .SelectLan .sondiv{
     border: none;

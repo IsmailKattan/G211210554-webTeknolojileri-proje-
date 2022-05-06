@@ -1,38 +1,143 @@
-.Header1Div{
-    display: inline-flex;
-    background-color: aqua;
-    width: 100%;
-    text-transform: uppercase;
-    font-size: 30px;
+
+.daddiv ul{
+    display: flex;
+    list-style: none;
 }
-.SosyalMidya div{
-    display: inline-block;
+.daddiv .navication {
+    margin: 25px;
+    color: #A4EBF3;
+    text-transform: capitalize;
     position: relative;
-    left: 425px;
-    border-right: 1px solid black;
-    padding: 0px 5px 0px 0px;
+    top: 30px;
 }
-.SosyalMidya .sondiv{
-    border: none;
-}
-.ismaildiv{
-    margin: 2px;
-    position: relative;
-}
-.SelectLan div{
-    display: inline-block;
-    left: 500px;
-    position: relative;
-    padding: 0px 5px 0px 0px;
-    border-right: 1px solid black;
-}
-.SelectLan .sondiv{
-    border: none;
-}
-.SelectLan div a{
+.daddiv .navication:hover{
+    color: #aaaaaa;
+    
     text-decoration: none;
 }
-.hr1{
+header .daddiv .sondiv li{
     position: relative;
-    top: -10px;
+    left: 50%;
 }
+header .daddiv{
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.logofoto img{
+    background-color:#CCF2F4 ;
+    padding: 10px;
+    border-radius: 7px;
+    width: 176px;
+    height: 50px;
+}
+header .sondiv{
+    position: static;
+}
+.sonsbrother{
+    color: #A4EBF3;
+    padding: 200px 20%;
+}
+.sonsbrother .kisa-mesaj{
+    text-transform: capitalize;
+    text-shadow: #CCF2F4 1px 1px;
+}
+.sonsbrother a{
+    display: block;
+    width: 110px;
+}
+.sonsbrother .btn-outline-primary{
+    background-color: #A4EBF3;
+    color: #aaaaaa;
+    margin: 20px 0px;
+    padding: 3px;
+    transition: all 0.2s linear;
+}
+.sonsbrother .btn-outline-primary:hover{
+    background-color: #aaaaaa;
+    color: #A4EBF3;
+    transform: scale(1.2);
+}
+.first-hr{
+    position:relative;
+    bottom :16px;
+    border-top: 12px solid #aaaa
+}
+.first-section{
+    background-color:#F4F9F9;
+}
+
+.hakkinda-header{
+    font-size: 1.8rem;
+    position: relative;
+    top: 35px;
+    left: 5%;
+    background-color: #F4F9F9;
+    width: 34%;
+    padding: 1px 2px 3px 40px;
+}
+.hakkinda{
+    margin: 20px;
+    padding: 40px 0px;
+    font-size: 1.3rem;
+    border: 5px solid #aaaaaa;
+    
+}
+
+
+
+
+
+
+
+/* header .ow .col-3,
+header .row .col-2{
+    text-align: center;
+    border: 1px solid white;
+}
+header .row .col-3 a,
+header .row .col-2 a{
+    color: #F4F9F9;
+    text-align: center;
+    padding: 2%;
+}
+header .row{
+    font-size: 20px;
+} */
+/* header img{
+    height: 50px; 
+    width: 100%;
+}
+header .row .col-sm-1 a{
+    display: flex;
+    color:#aaaaaa;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.1em;
+}
+header .roe .col-sm-1 a:hover{
+    color:#F4F9F9;
+    background-color: #aaaaaa;
+} */
+/* header nav .btn-group .btn{
+    border: 1px solid white;
+    border-bottom: none;
+    border-top: none;
+    height: 50px;
+    font-size: 20px;
+}
+header nav .btn-group .btn p{
+    position: relative;
+    top: 15px;
+    color:#aaa;
+} */
+/* section.first-section{
+    background-image:url(../360_F_116219403_MMOSh3qN2Tns8wnc3S8PSmXEmsXp50DH.jpg);
+    background-attachment:fixed ;
+    background-size: cover;
+    color: #A4EBF3;
+    padding: 100px 200px;
+    text-transform: capitalize;
+    width: 100%;
+} */

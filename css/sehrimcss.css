@@ -1,45 +1,32 @@
-header .row{
-    display: flex;
-    list-style: none;
-}
-header .row .row{
-    margin-left: 1%;
-    /* color: #A4EBF3; */
-    text-transform: capitalize;
-    position: relative;
-    top: 20px;
-}
-header .row .row a:hover{
-    color: #aaaaaa;
-    text-decoration: none;
-}
-.daddiv .sondiv .row .col-lg-2{
-    text-align: center;
-}
-header .navication{
-    position: relative;
-    color: #A4EBF3;
-    font-size: 1.2rem;
-}
-header .daddiv{
-    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
-    height: 700px;
-    background-attachment: fixed;
-    background-size: cover;
-}
-.logofoto img{
+.logoresmi img{
     background-color: #CCF2F4;
     padding: 1px;
     border-radius: 7px;
     width: 250px;
-    margin: 2%;
+    margin: -3%;
 }
-header .sondiv{
-    position: static;
+header nav a{
+    color: #A4EBF3;
+    text-transform: capitalize;
+    transition: all 0.2s linear;
+}
+header nav a:hover{
+    background-color: #A4EBF3;
+    color: #2c2b2b;
+    transform: scale(1.07);
+}
+header{
+    position: sticky;
+    top: 0px;
+    z-index: 999;
 }
 .sonsbrother{
     color: #A4EBF3;
     padding: 200px 20%;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .sonsbrother .kisa-mesaj{
     text-transform: capitalize;
@@ -61,7 +48,6 @@ header .sondiv{
     color: #A4EBF3;
     transform: scale(1.2);
 }
-
 .about-aleppo h1 {
     font-size: 2em;
     margin: 15px;

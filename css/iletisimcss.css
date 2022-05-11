@@ -64,8 +64,12 @@ section.form-section {
 .sosyalmedya a:hover{
     text-decoration: none;
 }
+
 section.sosyalmedya{
     background-color: #dbd7d79a;
     margin: 25px auto;
     padding: 10px 0px;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }

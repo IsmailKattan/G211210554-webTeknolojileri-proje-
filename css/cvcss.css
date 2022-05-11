@@ -157,10 +157,31 @@ section.second-section{
     background-color: #F4F9F9;
     margin: 15px;
 }
+.my-skills{
+    padding: 10px;
+    background-color: #F4F9F9;
+}
+.my-skills h3{
+    padding-left: 10px;
+}
+.canlidil .progress,
+.PvS-lan .progress{
+    height: 25px;
+    margin: 10px;
+    margin-top: 2px;
+}
+.canlidil .progress .progress-bar,
+.PvS-lan .progress .progress-bar{
+    height: 25px;
+    font-size: 1.5rem;
+}
 
-
-footer{
-    background-color: #2c2b2b;
+footer {
+    color: #A4EBF3;
+    padding: 50px 20%;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 footer a{
     color: white;

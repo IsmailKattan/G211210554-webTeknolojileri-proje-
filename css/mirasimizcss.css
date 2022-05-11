@@ -28,6 +28,17 @@ header .col-2.col-lg-2 {
     text-align: center;
     
 }
+p{
+    text-align: justify;
+}
+.pazarlar img,
+.sonra img{
+    height: 500px;
+}
+.kapilar img{
+    height: 800px;
+}
+
 .short-comment {
     padding: 1%;
     margin: 1%;
@@ -66,3 +77,4 @@ footer h1 {
 footer .col-5 {
     display: inline-block;
 }
+

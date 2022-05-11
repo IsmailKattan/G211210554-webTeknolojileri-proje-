@@ -48,6 +48,9 @@ header{
     color: #A4EBF3;
     transform: scale(1.2);
 }
+p{
+    text-align: justify;
+}
 .about-aleppo h1 {
     font-size: 2em;
     margin: 15px;

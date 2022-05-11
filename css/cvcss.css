@@ -48,6 +48,9 @@ header{
     color: #A4EBF3;
     transform: scale(1.2);
 }
+p{
+    text-align: justify;
+}
 .first-section{
     background-color: #dbd7d79a;
 }

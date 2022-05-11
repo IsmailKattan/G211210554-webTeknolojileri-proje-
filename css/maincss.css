@@ -48,7 +48,9 @@ header{
     color: #A4EBF3;
     transform: scale(1.2);
 }
-
+p{
+    text-align: justify;
+}
 section.first-section {
     background-color: #F4F9F9;
     margin: 15px;
@@ -146,7 +148,7 @@ section.first-section {
 }
 .yorumlar .yor-a p {
     margin-top: -30px;
-    text-align: center;
+    text-align: justify;
 }
 .section3 textarea {
     border: 1px solid black;

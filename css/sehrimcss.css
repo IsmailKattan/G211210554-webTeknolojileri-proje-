@@ -1,0 +1,151 @@
+.logoresmi img{
+    background-color: #CCF2F4;
+    padding: 1px;
+    border-radius: 7px;
+    width: 250px;
+    margin: -3%;
+}
+header nav a{
+    color: #A4EBF3;
+    text-transform: capitalize;
+    transition: all 0.2s linear;
+}
+header nav a:hover{
+    background-color: #A4EBF3;
+    color: #2c2b2b;
+    transform: scale(1.07);
+}
+header{
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+}
+.sonsbrother{
+    color: #A4EBF3;
+    padding: 200px 20%;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sonsbrother .kisa-mesaj{
+    text-transform: capitalize;
+    text-shadow: #CCF2F4 1px 1px;
+}
+.sonsbrother a{
+    display: block;
+    width: 110px;
+}
+.sonsbrother .btn-outline-primary{
+    background-color: #A4EBF3;
+    color: #aaaaaa;
+    margin: 20px 0px;
+    padding: 3px;
+    transition: all 0.2s linear;
+}
+.sonsbrother .btn-outline-primary:hover{
+    background-color: #aaaaaa;
+    color: #A4EBF3;
+    transform: scale(1.2);
+}
+p{
+    text-align: justify;
+}
+.about-aleppo h1 {
+    font-size: 2em;
+    margin: 15px;
+    text-transform: uppercase;
+    display: inline-flex;
+}
+.about-aleppo h3 {
+    font-size: 1.7rem;
+    margin: 5px;
+    text-transform: capitalize;
+    display: inline-flex;
+}
+.about-aleppo p {
+    font-size: 1.5em;
+    font-family: sans-serif;
+    word-spacing: 2px;
+}
+.about-aleppo .halebim-1{
+    background-color: #F4F9F9;
+    margin: 1%;
+    padding: 1%;
+}
+.about-aleppo .halebim-2{
+background-color: #dbd7d79a;
+margin: 1%;
+padding: 1%;
+}
+p span{
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+.second-section h1{
+    text-transform: capitalize;
+    font-size: 2.5rem;
+    padding: 15px;
+}
+.second-section img{
+    height: 200px;
+}
+.second-section .row{
+    margin: 0px;
+    margin-bottom: 60px;
+}
+.second-section .card{
+    font-size: 1.6em;
+    text-decoration: none;
+    color: black;
+    min-height: 900px;
+    background-color: #dbd7d79a;
+    transition: all 0.2s linear;
+}
+.second-section .card:hover{
+
+    transform: scale(1.07);
+}
+.second-section a:hover{
+    text-decoration: none;
+}
+.second-section p{
+    padding: 20px;
+}
+.second-section h3{
+    text-transform: capitalize;
+}
+section.second-section{
+    background-color: #F4F9F9;
+    margin: 15px;
+}
+
+footer {
+    color: #A4EBF3;
+    padding: 50px 20%;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer a{
+    color: white;
+    font-size: 2rem;
+}
+footer h1 {
+    color: white;
+    margin: 20px;
+}
+footer .col-5 {
+    display: inline-block;
+}

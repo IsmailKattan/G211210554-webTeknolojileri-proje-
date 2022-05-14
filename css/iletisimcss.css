@@ -1,0 +1,75 @@
+.logoresmi img{
+    background-color: #CCF2F4;
+    padding: 1px;
+    border-radius: 7px;
+    width: 250px;
+    margin: -3%;
+}
+header nav a{
+    color: #A4EBF3;
+    text-transform: capitalize;
+    transition: all 0.2s linear;
+}
+header nav a:hover{
+    background-color: #A4EBF3;
+    color: #2c2b2b;
+    transform: scale(1.07);
+}
+header{
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+}
+.sonsbrother{
+    color: #A4EBF3;
+    padding: 200px 20%;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sonsbrother .kisa-mesaj{
+    text-transform: capitalize;
+    text-shadow: #CCF2F4 1px 1px;
+}
+.sonsbrother a{
+    display: block;
+    width: 110px;
+}
+.sonsbrother .btn-outline-primary{
+    background-color: #A4EBF3;
+    color: #aaaaaa;
+    margin: 20px 0px;
+    padding: 3px;
+    transition: all 0.2s linear;
+}
+.sonsbrother .btn-outline-primary:hover{
+    background-color: #aaaaaa;
+    color: #A4EBF3;
+    transform: scale(1.2);
+}
+section.form-section {
+    background-color: #F4F9F9;
+    padding: 25px 0px;
+}
+.sosyalmedya .card{
+    margin: 15px;
+    background-color: #dbd7d79a;
+    transition: all 0.2s linear;
+}
+.sosyalmedya .card:hover{
+
+    transform: scale(1.07);
+}
+.sosyalmedya a:hover{
+    text-decoration: none;
+}
+
+section.sosyalmedya{
+    background-color: #dbd7d79a;
+    margin: 25px auto;
+    padding: 10px 0px;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/24/107862-server-dark-computer-data_center-748x499.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}

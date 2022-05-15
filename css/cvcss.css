@@ -66,10 +66,10 @@ p{
     margin: 0px;
 }
 .first-section .card{
-    font-size: 1.6em;
+    font-size: 1.6rem;
     text-decoration: none;
     color: black;
-    min-height: 1150px;
+    min-height: 800px;
     transition: all 0.2s linear;
 }
 .first-section .card:hover{
@@ -81,6 +81,7 @@ p{
 }
 .first-section p{
     padding: 20px;
+    font-size: 1.5rem;
 }
 .first-section h3{
     text-transform: capitalize;
@@ -118,7 +119,7 @@ section.yuksek-ogretim {
 .yuksek-ogretim p{
     border: 5px solid #aaaaaa;
     padding: 15px;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     border-radius: 28px;
 }
 
@@ -152,6 +153,7 @@ section.yuksek-ogretim {
 }
 .second-section p{
     padding: 20px;
+    font-size:1.5rem;
 }
 .second-section h3{
     text-transform: capitalize;

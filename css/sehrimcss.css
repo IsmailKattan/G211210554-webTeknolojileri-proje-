@@ -52,19 +52,19 @@ p{
     text-align: justify;
 }
 .about-aleppo h1 {
-    font-size: 2em;
+    font-size: 1.7em;
     margin: 15px;
     text-transform: uppercase;
     display: inline-flex;
 }
 .about-aleppo h3 {
-    font-size: 1.7rem;
+    font-size: 1.55rem;
     margin: 5px;
     text-transform: capitalize;
     display: inline-flex;
 }
 .about-aleppo p {
-    font-size: 1.5em;
+    font-size: 1.4rem;
     font-family: sans-serif;
     word-spacing: 2px;
 }

@@ -98,7 +98,7 @@ section.first-section {
     font-size: 1.6em;
     text-decoration: none;
     color: black;
-    min-height: 1600px;
+    min-height: 1250px;
     transition: all 0.2s linear;
 }
 .second-section .card:hover{
@@ -110,6 +110,7 @@ section.first-section {
 }
 .second-section p{
     padding: 20px;
+    font-size: 1.4rem;
 }
 .second-section h3{
     text-transform: capitalize;

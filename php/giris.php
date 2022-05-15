@@ -24,7 +24,7 @@
             </a>
             <div id="göster" class="collapse navbar-collapse" >
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="../html/index.html" >anasayfa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../index.html" >anasayfa</a></li>
                     <li class="nav-item"><a class="nav-link" href="../html/CV.html" style="text-transform:uppercase;">cv</a></li>
                     <li class="nav-item"><a class="nav-link" href="../html/sehrim.html" >şehrim</a></li>
                     <li class="nav-item"><a class="nav-link" href="../html/" >İlgili alanlar</a></li>
@@ -43,14 +43,14 @@
 
 $user = "ismail.kattan@sakarya.edu.tr";
 $pass = "G211210554";
-if (($_POST["email"] == $user) and ($_POST["password"] == $pass))
+if (($_POST["email"] == $user) and ($_POST["pass"] == $pass))
 {
-$_SESSION["login"] = "true";
-$_SESSION["user"] = $user;
-$_SESSION["pass"] = $pass;
+    $_SESSION["login"] = "true";
+    $_SESSION["user"] = $user;
+    $_SESSION["pass"] = $pass;
 
-echo( "GİRİŞ BAŞARILI");
-header("Refresh: 2; url=../index.html");
+    echo( "GİRİŞ BAŞARILI");
+    header("Refresh: 10; url=../index.html");
 }
 
 else 

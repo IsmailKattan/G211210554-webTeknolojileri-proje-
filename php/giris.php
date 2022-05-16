@@ -50,7 +50,7 @@ if (($_POST["email"] == $user) and ($_POST["pass"] == $pass))
     $_SESSION["pass"] = $pass;
 
     echo( "GİRİŞ BAŞARILI");
-    header("Refresh: 10; url=../index.html");
+    header("Refresh: 2; url=../index.html");
 }
 
 else 
